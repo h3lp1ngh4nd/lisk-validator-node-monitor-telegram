@@ -1,4 +1,4 @@
-# liskv3-node-monitor-telegram
+# liskv4-node-monitor-telegram
 A quick and dirty python script to check if a node is missing blocks and notify through Telegram
 
 Simply pull the file and edit the config within.
